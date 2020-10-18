@@ -12,6 +12,7 @@ func main() {
 	//2、选择排序
 	//selectSort()
 	//selectSort_rev(&arr)
+	fmt.Print("haaaaaa")
 
 	//3、插入排序
 	//insertSort()
