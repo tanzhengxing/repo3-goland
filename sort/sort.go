@@ -13,6 +13,7 @@ func main() {
 	//selectSort()
 	//selectSort_rev(&arr)
 	fmt.Print("haaaaaa")
+	fmt.Print("哈哈沙发临时饭卡是否")
 
 	//3、插入排序
 	//insertSort()
